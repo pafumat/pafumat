@@ -3,7 +3,7 @@
 **Data & AI Analytics** · Python · SQL · BigQuery · Power BI · LLM workflows (Claude, MCP, RAG)
 
 🇫🇷 French citizen (EU/EFTA — full freedom of movement) · 🇺🇸 5 years US experience · Bilingual French / English
-📍 Boston, MA → Open to **Switzerland & Luxembourg** (immediate relocation)
+📍 Boston, MA · **Open to relocation**
 
 ---
 
@@ -34,7 +34,7 @@ Other        Git · macOS · Linux · Jupyter
 
 ### What I'm looking for
 
-A **Data Analyst / BI Analyst / Analytics Engineer / AI Solutions** role in **Switzerland or Luxembourg** where I can bridge business stakeholders and modern data + AI tooling. Especially interested in life sciences, financial services, and consumer goods.
+A **Data Analyst / BI Analyst / Analytics Engineer / AI Solutions** role where I can bridge business stakeholders and modern data + AI tooling. Open to relocation, with a particular interest in Europe. Especially drawn to life sciences, financial services, and consumer goods.
 
 ### Get in touch
 
